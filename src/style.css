@@ -1,0 +1,14 @@
+body{
+    margin: 60px;
+}
+
+.flex{
+    display: flex;
+}
+.flex-jcsb{
+    display: flex;
+    justify-content: space-between;
+}
+.complete {
+    text-decoration: line-through;
+}
